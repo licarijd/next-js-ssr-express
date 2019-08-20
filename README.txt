@@ -1,0 +1,1 @@
+To rename the project, remove the .next and node_modules directories and npm install.
